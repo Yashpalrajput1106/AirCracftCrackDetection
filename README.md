@@ -11,28 +11,28 @@ This project is a deep learning-based image classification system developed as p
 * Prediction visualization on test images
 
 ## Technologies Used
-Python
-TensorFlow / Keras
-OpenCV
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+* Python
+* TensorFlow / Keras
+* OpenCV
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
 
 ## Evaluation Metrics
-Accuracy
-Confusion Matrix (Train & Test)
-ROC Curve
-AUC Score
+* Accuracy
+* Confusion Matrix (Train & Test)
+* ROC Curve
+* AUC Score
 
 ## Output
-Heatmaps of confusion matrices
-ROC curve visualization
-Sample predictions on test images
+* Heatmaps of confusion matrices
+* ROC curve visualization
+* Sample predictions on test images
 
 ## Learning Outcomes
-Understanding of CNN architecture
-Image preprocessing using OpenCV
-Model training and evaluation
-Performance visualization using plots
-Practical implementation of deep learning
+* Understanding of CNN architecture
+* Image preprocessing using OpenCV
+* Model training and evaluation
+* Performance visualization using plots
+* Practical implementation of deep learning
